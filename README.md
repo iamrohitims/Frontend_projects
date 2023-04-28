@@ -4,7 +4,8 @@ This repository contains a collection of frontend projects that I have completed
 
 ## Project List
 
-1. Clockwise - 
+1. Clockwise - https://iamrohitims.github.io/Frontend_projects/Clockwise/
+2. toast-notification - 
 
 ## About the Projects
 
