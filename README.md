@@ -6,6 +6,7 @@ This repository contains a collection of frontend projects that I have completed
 
 1. Clockwise - https://iamrohitims.github.io/Frontend_projects/Clockwise/
 2. toast-notification - https://iamrohitims.github.io/Frontend_projects/toast-notification/
+3. MovieMania - https://iamrohitims.github.io/Frontend_projects/MovieMania/
 
 ## About the Projects
 
