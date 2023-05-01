@@ -8,6 +8,7 @@ This repository contains a collection of frontend projects that I have completed
 2. Toast-notification - https://iamrohitims.github.io/Frontend_projects/toast-notification/
 3. MovieMania - https://iamrohitims.github.io/Frontend_projects/MovieMania/
 4. Github-profiles - https://iamrohitims.github.io/Frontend_projects/github-profiles/
+5. Random-choice-picker - https://iamrohitims.github.io/Frontend_projects/Random-choice-picker/
 
 ## About the Projects
 
