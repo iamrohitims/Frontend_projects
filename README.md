@@ -11,7 +11,7 @@ This repository contains a collection of frontend projects that I have completed
 
 ## About the Projects
 
-Each project is unique and designed to demonstrate my proficiency in front-end development. I have used various front-end frameworks and libraries like React, Angular, Bootstrap, and JQuery to build these projects.
+Each project is unique and designed to demonstrate my proficiency in front-end development. I have used various front-end programming and libraries like Html, Css, Javascript, Bootstrap, and JQuery to build these projects.
 
 ## Usage
 
@@ -24,5 +24,4 @@ If you have any questions or would like to discuss collaboration opportunities, 
 Thank you for taking the time to review my repository.
 
 Best regards,
-
 Rohit Kumar
