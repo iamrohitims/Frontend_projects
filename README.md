@@ -9,6 +9,7 @@ This repository contains a collection of frontend projects that I have completed
 3. MovieMania - https://iamrohitims.github.io/Frontend_projects/MovieMania/
 4. Github-profiles - https://iamrohitims.github.io/Frontend_projects/github-profiles/
 5. Random-choice-picker - https://iamrohitims.github.io/Frontend_projects/Random-choice-picker/
+6. Drink-water - https://iamrohitims.github.io/Frontend_projects/drink-water/
 
 ## About the Projects
 
